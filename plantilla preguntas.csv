@@ -1,0 +1,12 @@
+¿Cuál es la capital de Chile?,MULTIPLE_CHOICE,Recordar,20,Santiago|Lima|Buenos Aires,Santiago
+La Tierra gira alrededor del Sol.,TRUE_FALSE,Recordar,10,VERDADERO|FALSO,VERDADERO
+¿Qué función cumple el método paintComponent en Swing?,MULTIPLE_CHOICE,Entender,30,Renderizar componentes|Gestionar eventos|Iniciar hilo,Renderizar componentes
+Un ArrayList en Java es un tipo de lista dinámica.,TRUE_FALSE,Entender,15,VERDADERO|FALSO,VERDADERO
+¿Cómo se agrega un ActionListener a un JButton?,MULTIPLE_CHOICE,Aplicar,40,addMouseListener()|addActionListener()|setListener(),addActionListener()
+Para compilar un archivo .java se usa el comando javac.,TRUE_FALSE,Aplicar,10,VERDADERO|FALSO,VERDADERO
+¿Cuál es la complejidad temporal de buscar un elemento en un HashMap en promedio?,MULTIPLE_CHOICE,Analizar,30,O(n)|O(log n)|O(1),O(1)
+Un ciclo for en Java siempre se ejecuta al menos una vez.,TRUE_FALSE,Analizar,10,VERDADERO|FALSO,FALSO
+¿Cuál es la mejor práctica para gestionar excepciones en Java?,MULTIPLE_CHOICE,Evaluar,45,Propagar todas|Capturarlas todas en main|Capturarlas y manejarlas adecuadamente,Capturarlas y manejarlas adecuadamente
+Es preferible usar StringBuilder sobre String concatenation en bucles en Java.,TRUE_FALSE,Evaluar,15,VERDADERO|FALSO,VERDADERO
+Escribe la declaración correcta de una clase genérica en Java.,MULTIPLE_CHOICE,Crear,60,class MiClase<T>{}|public MiClase<T>|generic public class,class MiClase<T>{}
+Se puede crear un JPanel personalizado extendiendo la clase JPanel.,TRUE_FALSE,Crear,20,VERDADERO|FALSO,VERDADERO
